@@ -1,0 +1,4 @@
+.fseventsd/
+.metadata_never_index
+.DS_Store
+nvram.plist
