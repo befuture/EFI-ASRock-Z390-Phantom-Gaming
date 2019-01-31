@@ -13,7 +13,7 @@ ASRock z390 Phantom Gaming ITX/AC Hackintosh
 
 ### Work
 
-* IGPU with hardware acceleration with 4k
+* IGPU with hardware acceleration(4k resolution)
 * Audio
 * Ethernet
 * Wi-Fi / Bluetooth / Airdrop
