@@ -1,6 +1,8 @@
 # Hackintosh running MacOS Mojave 10.14.3
 ASRock z390 Phantom Gaming ITX/AC Hackintosh
 
+ ![image](https://raw.githubusercontent.com/befuture/EFI-ASRock-Z390-Phantom-Gaming/master/images-folder/itx-systeminfo.png)
+
 ## Introduction
 
 ### Hardware
@@ -10,6 +12,9 @@ ASRock z390 Phantom Gaming ITX/AC Hackintosh
 * [Kingston Fury DDR4 2400 16GB](https://item.jd.com/2551276.html)
 * [HP EX900 500G M.2 NVMe](https://item.jd.com/6245707.html)
 * [Broadcom BCM94352Z](http://www.taobao.com/)
+
+![image](https://raw.githubusercontent.com/befuture/EFI-ASRock-Z390-Phantom-Gaming/master/images-folder/itx-build.png)
+![image](https://raw.githubusercontent.com/befuture/EFI-ASRock-Z390-Phantom-Gaming/master/images-folder/full-build.png)
 
 ### Work
 
@@ -38,3 +43,7 @@ BIOS Settings:
 ### USB mapping
 
 This EFI has a [custom DSDT by bydavy](https://github.com/bydavy/EFI-ASRock-Z390-Phantom-Gaming-data) to map USB ports used.
+
+### Bluetooth & Wi-Fi
+![image](https://raw.githubusercontent.com/befuture/EFI-ASRock-Z390-Phantom-Gaming/master/images-folder/itx-bluetooth.png)
+![image](https://raw.githubusercontent.com/befuture/EFI-ASRock-Z390-Phantom-Gaming/master/images-folder/itx-wifi.png)
